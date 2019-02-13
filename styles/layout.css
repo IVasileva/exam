@@ -384,3 +384,17 @@ table a, #comments a{background-color:inherit;}
 	.font-x2{font-size:1.4rem;}
 	.font-x3{font-size:1.6rem;}
 }
+
+.par1{
+text-align: justify;
+font-family: Comic Sans MS;
+}
+.par2{
+text-align: justify;
+font-family: Comic Sans MS;
+font-style: italic;
+font-weight:600;
+}
+.comment{
+	background-color: silver;
+}
