@@ -398,3 +398,9 @@ font-weight:600;
 .backgr{
 	background-color: silver;
 }
+.menui{
+	background-image:url('images/demo/backgrounds/01.png');
+}
+.navi{
+	color: black !important;
+}
